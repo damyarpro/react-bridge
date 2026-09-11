@@ -1,0 +1,1077 @@
+# Copyright (C) React Bridge contributors
+# This file is distributed under the same license as the React Bridge plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: React Bridge 1.3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-11 10:32+0000\n"
+"PO-Revision-Date: 2026-09-11 10:32+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: react-bridge tools/extract-pot.php\n"
+"X-Domain: react-bridge\n"
+
+#: includes/class-rb-admin.php:22
+msgid "Copied"
+msgstr ""
+
+#: includes/class-rb-admin.php:23
+msgid "Not copied"
+msgstr ""
+
+#: includes/class-rb-admin.php:24 views/settings-page.php:218 views/settings-page.php:259
+msgid "Show"
+msgstr ""
+
+#: includes/class-rb-admin.php:25
+msgid "Hide"
+msgstr ""
+
+#: includes/class-rb-admin.php:27
+msgid "API active, version %s"
+msgstr ""
+
+#: includes/class-rb-admin.php:29
+msgid "API not responding (%s)"
+msgstr ""
+
+#: includes/class-rb-admin.php:30
+msgid "Network error"
+msgstr ""
+
+#: includes/class-rb-admin.php:31 views/settings-page.php:70
+msgid "Checking"
+msgstr ""
+
+#: includes/class-rb-admin.php:32
+msgid "You have unsaved changes."
+msgstr ""
+
+#: includes/class-rb-admin.php:33
+msgid "All changes are saved."
+msgstr ""
+
+#: includes/class-rb-admin.php:34
+msgid "Saving"
+msgstr ""
+
+#: includes/class-rb-admin.php:35
+msgid "Clearing"
+msgstr ""
+
+#: includes/class-rb-admin.php:36
+msgid "Cache cleared"
+msgstr ""
+
+#: includes/class-rb-admin.php:37
+msgid "Not cleared, try again"
+msgstr ""
+
+#: includes/class-rb-admin.php:38 views/settings-page.php:341
+msgid "Clear cache"
+msgstr ""
+
+#: includes/class-rb-admin.php:39
+msgid "Generating"
+msgstr ""
+
+#: includes/class-rb-admin.php:40
+msgid "New key created."
+msgstr ""
+
+#: includes/class-rb-admin.php:41
+msgid "Could not create a new key."
+msgstr ""
+
+#: includes/class-rb-admin.php:42
+msgid "The current key stops working and the frontend needs the new one. Continue?"
+msgstr ""
+
+#: includes/class-rb-admin.php:43
+msgid "Unsaved changes on this page will be lost. Continue?"
+msgstr ""
+
+#: includes/class-rb-admin.php:44
+msgid "Running"
+msgstr ""
+
+#: includes/class-rb-admin.php:45 views/settings-page.php:388
+msgid "Run"
+msgstr ""
+
+#: includes/class-rb-admin.php:46
+msgid "The response has no body."
+msgstr ""
+
+#: includes/class-rb-admin.php:47
+msgid "Empty"
+msgstr ""
+
+#: includes/class-rb-admin.php:48
+msgid "The address must start with http:// or https://."
+msgstr ""
+
+#: includes/class-rb-admin.php:49
+msgid "The address must not contain spaces."
+msgstr ""
+
+#: includes/class-rb-admin.php:50
+msgid "This address is not valid."
+msgstr ""
+
+#: includes/class-rb-admin.php:51
+msgid "The address must not contain a user name or password."
+msgstr ""
+
+#: includes/class-rb-admin.php:52
+msgid "The frontend URL must not contain ? or #."
+msgstr ""
+
+#: includes/class-rb-admin.php:53 includes/class-rb-settings.php:50
+msgid "The frontend URL must not end with a slash."
+msgstr ""
+
+#: includes/class-rb-admin.php:54
+msgid "This is the WordPress API address. Enter the address of your frontend, for example https://example.com"
+msgstr ""
+
+#: includes/class-rb-admin.php:55
+msgid "The path must look like /blog: it starts with a slash and has no trailing slash, space, ? or #."
+msgstr ""
+
+#: includes/class-rb-admin.php:56
+msgid "* is not allowed"
+msgstr ""
+
+#: includes/class-rb-admin.php:57
+msgid "http or https only"
+msgstr ""
+
+#: includes/class-rb-admin.php:58
+msgid "A path or trailing slash is not allowed"
+msgstr ""
+
+#: includes/class-rb-admin.php:59
+msgid "Invalid format"
+msgstr ""
+
+#: includes/class-rb-admin.php:60
+msgid "Duplicate"
+msgstr ""
+
+#: includes/class-rb-admin.php:61
+msgid "At most 50 origins are allowed"
+msgstr ""
+
+#: includes/class-rb-admin.php:62
+msgid "Automatic from the frontend URL"
+msgstr ""
+
+#: includes/class-rb-admin.php:63
+msgid "Automatic"
+msgstr ""
+
+#: includes/class-rb-admin.php:65
+msgid "Origin %s is allowed automatically"
+msgstr ""
+
+#: includes/class-rb-admin.php:66
+msgid "Sample post title"
+msgstr ""
+
+#: includes/class-rb-admin.php:67
+msgid "The default description appears here."
+msgstr ""
+
+#: includes/class-rb-admin.php:68 views/settings-page.php:284
+msgid "Site name"
+msgstr ""
+
+#: includes/class-rb-admin.php:70
+msgid "%1$s of %2$s"
+msgstr ""
+
+#: includes/class-rb-admin.php:72
+msgid "%s settings will change:"
+msgstr ""
+
+#: includes/class-rb-admin.php:73
+msgid "All values match the current settings. Nothing to change."
+msgstr ""
+
+#: includes/class-rb-admin.php:75
+msgid "Ignored: %s"
+msgstr ""
+
+#: includes/class-rb-admin.php:76
+msgid "This text is not valid JSON. Paste the full text copied from your panel."
+msgstr ""
+
+#: includes/class-rb-admin.php:77
+msgid "The text must be a JSON object."
+msgstr ""
+
+#: includes/class-rb-admin.php:79
+msgid "Could not apply settings (code %s)."
+msgstr ""
+
+#: includes/class-rb-admin.php:80
+msgid "Could not connect. Try again."
+msgstr ""
+
+#: includes/class-rb-admin.php:81
+msgid "Applying"
+msgstr ""
+
+#: includes/class-rb-admin.php:82 views/settings-page.php:187
+msgid "Apply settings"
+msgstr ""
+
+#: includes/class-rb-admin.php:84
+msgid "%s settings imported and saved."
+msgstr ""
+
+#: includes/class-rb-admin.php:85
+msgid "The browser blocked automatic copying. The text is selected, press Ctrl+C."
+msgstr ""
+
+#: includes/class-rb-admin.php:86
+msgid "Unsaved changes on this page are not in the copied text. Save first, then copy again."
+msgstr ""
+
+#: includes/class-rb-admin.php:87
+msgid "Paste the copied text into the box above with Ctrl+V."
+msgstr ""
+
+#: includes/class-rb-admin.php:89
+msgid "Origin %s allowed"
+msgstr ""
+
+#: includes/class-rb-admin.php:91
+msgid "Blog path %s set"
+msgstr ""
+
+#: includes/class-rb-admin.php:93
+msgid "Site reachable (%s)"
+msgstr ""
+
+#: includes/class-rb-admin.php:94
+msgid "Site did not respond"
+msgstr ""
+
+#: includes/class-rb-admin.php:95
+msgid "API active"
+msgstr ""
+
+#: includes/class-rb-admin.php:96
+msgid "Settings match"
+msgstr ""
+
+#: includes/class-rb-admin.php:97
+msgid "Frontend URL differs in manifest"
+msgstr ""
+
+#: includes/class-rb-admin.php:99
+msgid "%s posts"
+msgstr ""
+
+#: includes/class-rb-admin.php:100
+msgid "Sitemap ready"
+msgstr ""
+
+#: includes/class-rb-admin.php:101
+msgid "Failed"
+msgstr ""
+
+#: includes/class-rb-admin.php:103
+msgid ", "
+msgstr ""
+
+#: includes/class-rb-admin.php:104
+msgid "Waiting"
+msgstr ""
+
+#: includes/class-rb-admin.php:106
+msgid "to"
+msgstr ""
+
+#: includes/class-rb-admin.php:107
+msgid "Setup complete."
+msgstr ""
+
+#: includes/class-rb-admin.php:108
+msgid "Enter your frontend address."
+msgstr ""
+
+#: includes/class-rb-admin.php:109
+msgid "empty"
+msgstr ""
+
+#: includes/class-rb-admin.php:110
+msgid "on"
+msgstr ""
+
+#: includes/class-rb-admin.php:111
+msgid "off"
+msgstr ""
+
+#: includes/class-rb-admin.php:113
+msgid "B"
+msgstr ""
+
+#: includes/class-rb-admin.php:115
+msgid "KB"
+msgstr ""
+
+#: includes/class-rb-admin.php:117
+msgid "ms"
+msgstr ""
+
+#: includes/class-rb-admin.php:119 views/settings-page.php:76 views/settings-page.php:84 views/settings-page.php:149
+msgid "Frontend URL"
+msgstr ""
+
+#: includes/class-rb-admin.php:120 views/settings-page.php:156
+msgid "Blog path"
+msgstr ""
+
+#: includes/class-rb-admin.php:121
+msgid "301 redirect to the frontend"
+msgstr ""
+
+#: includes/class-rb-admin.php:122
+msgid "Allowed origins (CORS)"
+msgstr ""
+
+#: includes/class-rb-admin.php:123
+msgid "Cache lifetime (seconds)"
+msgstr ""
+
+#: includes/class-rb-admin.php:124 views/settings-page.php:243
+msgid "Posts per page"
+msgstr ""
+
+#: includes/class-rb-admin.php:125
+msgid "Revalidation webhook URL"
+msgstr ""
+
+#: includes/class-rb-admin.php:126 views/settings-page.php:323
+msgid "Panel name"
+msgstr ""
+
+#: includes/class-rb-admin.php:127 views/settings-page.php:329
+msgid "Panel URL"
+msgstr ""
+
+#: includes/class-rb-admin.php:139
+msgid "Settings"
+msgstr ""
+
+#: includes/class-rb-admin.php:202
+msgid "The frontend URL is not set yet."
+msgstr ""
+
+#: includes/class-rb-admin.php:203
+msgid "Set it up"
+msgstr ""
+
+#: includes/class-rb-admin.php:210 includes/class-rb-admin.php:218 includes/class-rb-admin.php:233 includes/class-rb-admin.php:243
+#: includes/class-rb-settings-rest.php:32
+msgid "You do not have permission to do this."
+msgstr ""
+
+#: includes/class-rb-admin.php:248
+msgid "The frontend URL is required."
+msgstr ""
+
+#: includes/class-rb-admin.php:264
+msgid "The address must be http or https."
+msgstr ""
+
+#: includes/class-rb-admin.php:301
+msgid "SEO (React Bridge)"
+msgstr ""
+
+#: includes/class-rb-admin.php:312
+msgid "Address on the frontend:"
+msgstr ""
+
+#: includes/class-rb-admin.php:313
+msgid "SEO title"
+msgstr ""
+
+#: includes/class-rb-admin.php:314
+msgid "Empty = the post title with the template from the settings"
+msgstr ""
+
+#: includes/class-rb-admin.php:315
+msgid "Meta description"
+msgstr ""
+
+#: includes/class-rb-admin.php:316
+msgid "Empty = the post excerpt"
+msgstr ""
+
+#: includes/class-rb-admin.php:317
+msgid "Sharing image (OG)"
+msgstr ""
+
+#: includes/class-rb-admin.php:318
+msgid "Empty = the featured image"
+msgstr ""
+
+#: includes/class-rb-admin.php:319
+msgid "Keep this out of search results (noindex)"
+msgstr ""
+
+#: includes/class-rb-api.php:76
+msgid "The API key is not valid."
+msgstr ""
+
+#: includes/class-rb-api.php:339
+msgid "Post not found."
+msgstr ""
+
+#: includes/class-rb-api.php:345
+msgid "Pages are not available."
+msgstr ""
+
+#: includes/class-rb-api.php:351
+msgid "Page not found."
+msgstr ""
+
+#: includes/class-rb-api.php:385
+msgid "Blog of %s"
+msgstr ""
+
+#: includes/class-rb-api.php:386
+msgid "Blog"
+msgstr ""
+
+#: includes/class-rb-api.php:406
+msgid "Path not found."
+msgstr ""
+
+#: includes/class-rb-settings-rest.php:46
+msgid "The request body must be a JSON object."
+msgstr ""
+
+#: includes/class-rb-settings-rest.php:53
+msgid "The settings are not valid."
+msgstr ""
+
+#: includes/class-rb-settings.php:49
+msgid "The frontend URL must be empty or a full http or https address."
+msgstr ""
+
+#: includes/class-rb-settings.php:51
+msgid "The frontend URL must not contain ?, # or a user name."
+msgstr ""
+
+#: includes/class-rb-settings.php:52
+msgid "The blog path must look like /blog: it starts with a slash and has no trailing slash, space, ? or #."
+msgstr ""
+
+#: includes/class-rb-settings.php:53
+msgid "The redirect value must be true or false."
+msgstr ""
+
+#: includes/class-rb-settings.php:54
+msgid "Allowed origins must be a list of strings."
+msgstr ""
+
+#: includes/class-rb-settings.php:55
+msgid "The * wildcard is not allowed. Add each origin separately."
+msgstr ""
+
+#: includes/class-rb-settings.php:57
+msgid "The origin \"%s\" is not valid. Use scheme://host[:port] without a path."
+msgstr ""
+
+#: includes/class-rb-settings.php:58
+msgid "At most 50 origins are allowed."
+msgstr ""
+
+#: includes/class-rb-settings.php:59
+msgid "The cache lifetime must be a whole number between 0 and 86400 seconds."
+msgstr ""
+
+#: includes/class-rb-settings.php:60
+msgid "Posts per page must be a whole number between 1 and 50."
+msgstr ""
+
+#: includes/class-rb-settings.php:61
+msgid "The webhook URL must be empty or a full http or https address."
+msgstr ""
+
+#: includes/class-rb-settings.php:62
+msgid "The panel URL must be empty or a full http or https address."
+msgstr ""
+
+#: includes/class-rb-settings.php:63
+msgid "The language is not valid. For example fa_IR."
+msgstr ""
+
+#: includes/class-rb-settings.php:64
+msgid "This field is required."
+msgstr ""
+
+#: views/settings-page.php:14 views/settings-page.php:219 views/settings-page.php:260
+msgid "Copy"
+msgstr ""
+
+#: views/settings-page.php:32
+msgid "No cache"
+msgstr ""
+
+#: views/settings-page.php:33
+msgid "1 minute"
+msgstr ""
+
+#: views/settings-page.php:34
+msgid "5 minutes"
+msgstr ""
+
+#: views/settings-page.php:35
+msgid "1 hour"
+msgstr ""
+
+#: views/settings-page.php:36
+msgid "1 day"
+msgstr ""
+
+#: views/settings-page.php:42
+msgid "panel"
+msgstr ""
+
+#: views/settings-page.php:46
+msgid "Connection"
+msgstr ""
+
+#: views/settings-page.php:47
+msgid "Advanced"
+msgstr ""
+
+#: views/settings-page.php:48
+msgid "Status"
+msgstr ""
+
+#: views/settings-page.php:49
+msgid "Guide"
+msgstr ""
+
+#: views/settings-page.php:52
+msgid "Settings, categories, menus and counters"
+msgstr ""
+
+#: views/settings-page.php:53
+msgid "Paginated list with filters and search"
+msgstr ""
+
+#: views/settings-page.php:54
+msgid "Full post with SEO"
+msgstr ""
+
+#: views/settings-page.php:55
+msgid "WordPress page"
+msgstr ""
+
+#: views/settings-page.php:56
+msgid "Categories and tags"
+msgstr ""
+
+#: views/settings-page.php:57
+msgid "Full HTML for crawlers"
+msgstr ""
+
+#: views/settings-page.php:58
+msgid "Sitemap with frontend URLs"
+msgstr ""
+
+#: views/settings-page.php:59
+msgid "Plugin status and version"
+msgstr ""
+
+#: views/settings-page.php:60
+msgid "Blog settings for your admin panel"
+msgstr ""
+
+#: views/settings-page.php:74
+msgid "Quick setup"
+msgstr ""
+
+#: views/settings-page.php:77
+msgid "Connect panel"
+msgstr ""
+
+#: views/settings-page.php:78
+msgid "Check"
+msgstr ""
+
+#: views/settings-page.php:82
+msgid "Enter your React site URL"
+msgstr ""
+
+#: views/settings-page.php:85 views/settings-page.php:101
+msgid "Continue"
+msgstr ""
+
+#: views/settings-page.php:88
+msgid "Paste settings from your panel instead"
+msgstr ""
+
+#: views/settings-page.php:93
+msgid "Send settings to your panel"
+msgstr ""
+
+#: views/settings-page.php:95
+msgid "Copy settings"
+msgstr ""
+
+#: views/settings-page.php:96 views/settings-page.php:175
+msgid "Open %s"
+msgstr ""
+
+#: views/settings-page.php:98
+msgid "In your panel, click \"Paste from plugin\"."
+msgstr ""
+
+#: views/settings-page.php:100 views/settings-page.php:114
+msgid "Back"
+msgstr ""
+
+#: views/settings-page.php:106
+msgid "Check the connection"
+msgstr ""
+
+#: views/settings-page.php:109 views/settings-page.php:426
+msgid "Manifest"
+msgstr ""
+
+#: views/settings-page.php:110
+msgid "Posts"
+msgstr ""
+
+#: views/settings-page.php:111
+msgid "Sitemap"
+msgstr ""
+
+#: views/settings-page.php:115
+msgid "Again"
+msgstr ""
+
+#: views/settings-page.php:116
+msgid "Done"
+msgstr ""
+
+#: views/settings-page.php:124
+msgid "Settings saved."
+msgstr ""
+
+#: views/settings-page.php:128
+msgid "React Bridge sections"
+msgstr ""
+
+#: views/settings-page.php:146
+msgid "Frontend"
+msgstr ""
+
+#: views/settings-page.php:150
+msgid "URL of your React site, with http or https and no trailing slash"
+msgstr ""
+
+#: views/settings-page.php:157
+msgid "Must start with a slash, no trailing slash and no spaces"
+msgstr ""
+
+#: views/settings-page.php:169
+msgid "Transfer to %s"
+msgstr ""
+
+#: views/settings-page.php:170
+msgid "Transfer to panel"
+msgstr ""
+
+#: views/settings-page.php:173
+msgid "Copy for %s"
+msgstr ""
+
+#: views/settings-page.php:174
+msgid "Paste from %s"
+msgstr ""
+
+#: views/settings-page.php:182
+msgid "Settings text from your panel"
+msgstr ""
+
+#: views/settings-page.php:183
+msgid "Only the %s blog settings are applied; other keys are ignored"
+msgstr ""
+
+#: views/settings-page.php:188
+msgid "Cancel"
+msgstr ""
+
+#: views/settings-page.php:192
+msgid "Run setup again"
+msgstr ""
+
+#: views/settings-page.php:200
+msgid "Access"
+msgstr ""
+
+#: views/settings-page.php:203
+msgid "Allowed origins"
+msgstr ""
+
+#: views/settings-page.php:204
+msgid "One origin per line as scheme://host[:port], no path, up to %s entries"
+msgstr ""
+
+#: views/settings-page.php:205
+msgid "Origins preview"
+msgstr ""
+
+#: views/settings-page.php:210
+msgid "The key is sent in the X-RB-Key header"
+msgstr ""
+
+#: views/settings-page.php:211
+msgid "Require API key"
+msgstr ""
+
+#: views/settings-page.php:215
+msgid "API key"
+msgstr ""
+
+#: views/settings-page.php:217
+msgid "This key is visible inside the React build"
+msgstr ""
+
+#: views/settings-page.php:220
+msgid "New key"
+msgstr ""
+
+#: views/settings-page.php:227
+msgid "Cache and revalidation"
+msgstr ""
+
+#: views/settings-page.php:230
+msgid "Cache lifetime"
+msgstr ""
+
+#: views/settings-page.php:232
+msgid "From %1$s to %2$s seconds; zero means no cache"
+msgstr ""
+
+#: views/settings-page.php:233
+msgid "Preset values"
+msgstr ""
+
+#: views/settings-page.php:244
+msgid "From %1$s to %2$s"
+msgstr ""
+
+#: views/settings-page.php:249
+msgid "Webhook URL"
+msgstr ""
+
+#: views/settings-page.php:250
+msgid "Signed POST with the X-RB-Signature header after every post change"
+msgstr ""
+
+#: views/settings-page.php:256
+msgid "Webhook signing secret"
+msgstr ""
+
+#: views/settings-page.php:258
+msgid "Keep this secret on the frontend server only"
+msgstr ""
+
+#: views/settings-page.php:266
+msgid "Pages in the API"
+msgstr ""
+
+#: views/settings-page.php:270
+msgid "301 redirect from WordPress pages to the frontend"
+msgstr ""
+
+#: views/settings-page.php:272
+msgid "Redirect to frontend"
+msgstr ""
+
+#: views/settings-page.php:280
+msgid "SEO"
+msgstr ""
+
+#: views/settings-page.php:288
+msgid "Title template"
+msgstr ""
+
+#: views/settings-page.php:289
+msgid "Variables: %title% and %site%"
+msgstr ""
+
+#: views/settings-page.php:292
+msgid "Default description"
+msgstr ""
+
+#: views/settings-page.php:296
+msgid "Default image"
+msgstr ""
+
+#: views/settings-page.php:297
+msgid "Recommended size %1$s by %2$s pixels"
+msgstr ""
+
+#: views/settings-page.php:300
+msgid "X account"
+msgstr ""
+
+#: views/settings-page.php:304
+msgid "Language"
+msgstr ""
+
+#: views/settings-page.php:305
+msgid "For example en_US; affects og:locale and text direction"
+msgstr ""
+
+#: views/settings-page.php:320
+msgid "Admin panel"
+msgstr ""
+
+#: views/settings-page.php:324
+msgid "My admin panel"
+msgstr ""
+
+#: views/settings-page.php:324
+msgid "Shown on the transfer buttons, up to %s characters"
+msgstr ""
+
+#: views/settings-page.php:330
+msgid "Full http or https address of the blog settings screen in your panel"
+msgstr ""
+
+#: views/settings-page.php:339
+msgid "All saved"
+msgstr ""
+
+#: views/settings-page.php:342
+msgid "Save"
+msgstr ""
+
+#: views/settings-page.php:350
+msgid "Endpoints"
+msgstr ""
+
+#: views/settings-page.php:359
+msgid "Admins only"
+msgstr ""
+
+#: views/settings-page.php:361
+msgid "Test"
+msgstr ""
+
+#: views/settings-page.php:361
+msgid "Test %s"
+msgstr ""
+
+#: views/settings-page.php:370
+msgid "Live test"
+msgstr ""
+
+#: views/settings-page.php:385
+msgid "Parameters"
+msgstr ""
+
+#: views/settings-page.php:400
+msgid "Copy request URL"
+msgstr ""
+
+#: views/settings-page.php:402
+msgid "Pick an endpoint and run it."
+msgstr ""
+
+#: views/settings-page.php:411
+msgid "Guide contents"
+msgstr ""
+
+#: views/settings-page.php:412
+msgid "In this guide"
+msgstr ""
+
+#: views/settings-page.php:414
+msgid "Base URL"
+msgstr ""
+
+#: views/settings-page.php:415
+msgid "React client"
+msgstr ""
+
+#: views/settings-page.php:416
+msgid "SEO in React"
+msgstr ""
+
+#: views/settings-page.php:417
+msgid "Rendering for bots"
+msgstr ""
+
+#: views/settings-page.php:418
+msgid "Revalidation webhook"
+msgstr ""
+
+#: views/settings-page.php:419
+msgid "Response shape"
+msgstr ""
+
+#: views/settings-page.php:420
+msgid "Panel connection"
+msgstr ""
+
+#: views/settings-page.php:424
+msgid "%s. Base URL"
+msgstr ""
+
+#: views/settings-page.php:429
+msgid "%s. React client"
+msgstr ""
+
+#: views/settings-page.php:430
+msgid "One file for every endpoint. It honours ETag and keeps responses in memory."
+msgstr ""
+
+#: views/settings-page.php:474
+msgid "%s. SEO in React"
+msgstr ""
+
+#: views/settings-page.php:476
+msgid "Every post ships a ready %1$s. Inject it into %2$s with %3$s (%4$s)."
+msgstr ""
+
+#: views/settings-page.php:557
+msgid "src/main.jsx (changes)"
+msgstr ""
+
+#: views/settings-page.php:570
+msgid "%s. Dynamic rendering for bots (Nginx)"
+msgstr ""
+
+#: views/settings-page.php:571
+msgid "Search and social bots get full HTML from the plugin instead of an empty SPA, while people still get React. Add this block on the frontend server:"
+msgstr ""
+
+#: views/settings-page.php:572
+msgid "nginx: frontend server block"
+msgstr ""
+
+#: views/settings-page.php:594
+msgid "The %1$s block must sit at %2$s level, not inside %3$s. Behind Cloudflare, enable caching for %4$s."
+msgstr ""
+
+#: views/settings-page.php:601
+msgid "Without touching Nginx: prerender the sitemap routes at build time with %1$s or %2$s."
+msgstr ""
+
+#: views/settings-page.php:606
+msgid "%s. Revalidation webhook (optional)"
+msgstr ""
+
+#: views/settings-page.php:608
+msgid "For Next.js ISR or a CDN cache, the configured URL is POSTed at most once per request for each post or page. %1$s is one of %2$s (first publish), %3$s (edit of a published post), %4$s (moved to draft, trash or private) and %5$s (permanent delete of a published post)."
+msgstr ""
+
+#: views/settings-page.php:618
+msgid "Signature check (Node)"
+msgstr ""
+
+#: views/settings-page.php:626
+msgid "%s. Response shape of a post"
+msgstr ""
+
+#: views/settings-page.php:640
+msgid "%s. Panel connection"
+msgstr ""
+
+#: views/settings-page.php:642
+msgid "An external admin panel reads and changes the blog settings through the %1$s endpoint. Only these %2$s keys are reachable this way. The API key, the webhook secret and the SEO settings are never returned."
+msgstr ""
+
+#: views/settings-page.php:646
+msgid "Read"
+msgstr ""
+
+#: views/settings-page.php:647
+msgid "Partial update"
+msgstr ""
+
+#: views/settings-page.php:648
+msgid "Authentication:"
+msgstr ""
+
+#: views/settings-page.php:649
+msgid "an application password of an administrator. Under Users, Profile, Application Passwords create one named \"React Bridge\" and send it with Basic Auth: %1$s. Use HTTPS in production. The %2$s key is not accepted on this route because it is public inside the frontend build. Without authentication or administrator rights the answer is %3$s or %4$s."
+msgstr ""
+
+#: views/settings-page.php:657
+msgid "Key"
+msgstr ""
+
+#: views/settings-page.php:657
+msgid "Rule"
+msgstr ""
+
+#: views/settings-page.php:657
+msgid "Type"
+msgstr ""
+
+#: views/settings-page.php:660
+msgid "%1$s or a full %2$s address, no trailing slash, no query, fragment or userinfo. A path is allowed."
+msgstr ""
+
+#: views/settings-page.php:665
+msgid "Starts with a slash, no trailing slash, no spaces and no %1$s or %2$s. Default %3$s."
+msgstr ""
+
+#: views/settings-page.php:670
+msgid "301 redirect from old WordPress pages to the frontend."
+msgstr ""
+
+#: views/settings-page.php:672
+msgid "Each entry exactly %1$s, no path. Up to %2$s entries and no %3$s. The frontend origin is allowed automatically and is not stored in this list."
+msgstr ""
+
+#: views/settings-page.php:677
+msgid "%1$s to %2$s. Zero means no cache."
+msgstr ""
+
+#: views/settings-page.php:678
+msgid "%1$s to %2$s."
+msgstr ""
+
+#: views/settings-page.php:680
+msgid "%1$s or a full %2$s address."
+msgstr ""
+
+#: views/settings-page.php:688
+msgid "In %1$s send only the keys that must change. Types must match exactly (%2$s, not %3$s). If even one field is invalid nothing is saved. Unknown keys are ignored and reported in the %4$s header. If the client cannot send PATCH, use %5$s with the %6$s header."
+msgstr ""
+
+#: views/settings-page.php:696
+msgid "curl: read and update"
+msgstr ""
+
+#: views/settings-page.php:703
+msgid "Successful GET and PATCH response (200)"
+msgstr ""
+
+#: views/settings-page.php:714
+msgid "Validation error (400)"
+msgstr ""
+
+#: views/settings-page.php:725
+msgid "Each field message in %1$s is short and can be shown directly under that field in your panel. A body that is not a JSON object is rejected with code %2$s and status %3$s. Responses carry %4$s."
+msgstr ""
