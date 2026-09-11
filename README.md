@@ -1,6 +1,27 @@
+[English](README.md) | [فارسی](README.fa.md)
+
 # React Bridge
 
 Headless WordPress for any React or JavaScript frontend. One REST namespace (`rb/v1`) delivers posts, pages, taxonomies, menus, per-post SEO (meta, Open Graph, JSON-LD), crawler-ready HTML, a sitemap, server-side caching with ETags, and a signed revalidation webhook.
+
+## Screenshots
+
+<table>
+  <tr>
+    <td width="49%"><img src="docs/screenshots/01-wizard-fa.png" alt="Quick-start wizard"></td>
+    <td width="49%"><img src="docs/screenshots/02-connect-fa.png" alt="Connection tab"></td>
+  </tr>
+  <tr>
+    <td width="49%"><img src="docs/screenshots/03-advanced-fa.png" alt="Advanced tab"></td>
+    <td width="49%"><img src="docs/screenshots/04-status-fa.png" alt="Status tab with the live tester"></td>
+  </tr>
+  <tr>
+    <td width="49%"><img src="docs/screenshots/05-guide-fa.png" alt="Guide tab"></td>
+    <td width="49%"><img src="docs/screenshots/06-connect-en.png" alt="English LTR view"></td>
+  </tr>
+</table>
+
+<img src="docs/screenshots/07-mobile-fa.png" alt="Mobile width" width="320">
 
 ## Features
 
