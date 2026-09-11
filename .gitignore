@@ -1,0 +1,12 @@
+# Editor / tooling
+.claude/
+.idea/
+.vscode/
+*.log
+*.bak
+*.bak-*
+Thumbs.db
+.DS_Store
+
+# Release builds
+*.zip
