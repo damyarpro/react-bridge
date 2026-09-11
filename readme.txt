@@ -4,7 +4,7 @@ Tags: headless, react, rest api, seo, sitemap
 Requires at least: 6.2
 Tested up to: 7.1
 Requires PHP: 8.0
-Stable tag: 1.3.0
+Stable tag: 1.3.1
 License: GPLv2 or later
 Text Domain: react-bridge
 Domain Path: /languages
@@ -51,6 +51,10 @@ CLI only (the tests directory is denied over HTTP): php tests/run.php [path-to-w
 The plugin must be active. rb_settings is snapshotted at start and restored after each test and at shutdown; the cache generation is moved past every value used during the run.
 
 == Changelog ==
+
+= 1.3.1 =
+* Docs: Persian README and neutral admin screenshots; release packaging cleanup. No code changes.
+
 = 1.3.0 =
 * New: the plugin is site agnostic. No vendor names anywhere; the external admin panel is an optional, generic concept configured with panel_name and panel_url.
 * New: full internationalisation. Every user-facing string in PHP and JavaScript uses the react-bridge text domain with English source text; a Persian (fa_IR) translation ships in languages/.

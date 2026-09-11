@@ -2,7 +2,7 @@
 /**
  * Plugin Name: React Bridge
  * Description: Headless bridge: one REST API (rb/v1) with posts, pages, taxonomies, menus, SEO, crawler rendering, sitemap, cache and a signed revalidation webhook for any React or JavaScript frontend.
- * Version:     1.3.0
+ * Version:     1.3.1
  * Author:      React Bridge contributors
  * Text Domain: react-bridge
  * Domain Path: /languages
@@ -12,7 +12,7 @@
 
 if (!defined('ABSPATH')) exit;
 
-define('RB_VERSION', '1.3.0');
+define('RB_VERSION', '1.3.1');
 define('RB_FILE', __FILE__);
 define('RB_DIR', plugin_dir_path(__FILE__));
 define('RB_URL', plugin_dir_url(__FILE__));
