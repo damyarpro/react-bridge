@@ -1,0 +1,1077 @@
+# Persian translation for the React Bridge plugin.
+# This file is distributed under the same license as the React Bridge plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: React Bridge 1.3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2026-09-11 00:00+0000\n"
+"Last-Translator: React Bridge contributors\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: react-bridge tools/extract-pot.php\n"
+"X-Domain: react-bridge\n"
+
+#: includes/class-rb-admin.php:22
+msgid "Copied"
+msgstr "کپی شد"
+
+#: includes/class-rb-admin.php:23
+msgid "Not copied"
+msgstr "کپی نشد"
+
+#: includes/class-rb-admin.php:24 views/settings-page.php:218 views/settings-page.php:259
+msgid "Show"
+msgstr "نمایش"
+
+#: includes/class-rb-admin.php:25
+msgid "Hide"
+msgstr "پنهان"
+
+#: includes/class-rb-admin.php:27
+msgid "API active, version %s"
+msgstr "API فعال، نسخهٔ %s"
+
+#: includes/class-rb-admin.php:29
+msgid "API not responding (%s)"
+msgstr "API پاسخ نمی‌دهد (%s)"
+
+#: includes/class-rb-admin.php:30
+msgid "Network error"
+msgstr "خطای شبکه"
+
+#: includes/class-rb-admin.php:31 views/settings-page.php:70
+msgid "Checking"
+msgstr "در حال بررسی"
+
+#: includes/class-rb-admin.php:32
+msgid "You have unsaved changes."
+msgstr "تغییرات ذخیره‌نشده داری."
+
+#: includes/class-rb-admin.php:33
+msgid "All changes are saved."
+msgstr "همهٔ تغییرات ذخیره شده است."
+
+#: includes/class-rb-admin.php:34
+msgid "Saving"
+msgstr "در حال ذخیره"
+
+#: includes/class-rb-admin.php:35
+msgid "Clearing"
+msgstr "در حال پاک کردن"
+
+#: includes/class-rb-admin.php:36
+msgid "Cache cleared"
+msgstr "کش پاک شد"
+
+#: includes/class-rb-admin.php:37
+msgid "Not cleared, try again"
+msgstr "پاک نشد، دوباره تلاش کن"
+
+#: includes/class-rb-admin.php:38 views/settings-page.php:341
+msgid "Clear cache"
+msgstr "پاک کردن کش"
+
+#: includes/class-rb-admin.php:39
+msgid "Generating"
+msgstr "در حال ساخت"
+
+#: includes/class-rb-admin.php:40
+msgid "New key created."
+msgstr "کلید جدید ساخته شد."
+
+#: includes/class-rb-admin.php:41
+msgid "Could not create a new key."
+msgstr "ساخت کلید جدید ممکن نشد."
+
+#: includes/class-rb-admin.php:42
+msgid "The current key stops working and the frontend needs the new one. Continue?"
+msgstr "کلید فعلی باطل می‌شود و فرانت‌اند باید کلید جدید را بگیرد. ادامه می‌دهی؟"
+
+#: includes/class-rb-admin.php:43
+msgid "Unsaved changes on this page will be lost. Continue?"
+msgstr "تغییرات ذخیره‌نشدهٔ این صفحه از بین می‌رود. ادامه می‌دهی؟"
+
+#: includes/class-rb-admin.php:44
+msgid "Running"
+msgstr "در حال اجرا"
+
+#: includes/class-rb-admin.php:45 views/settings-page.php:388
+msgid "Run"
+msgstr "اجرا"
+
+#: includes/class-rb-admin.php:46
+msgid "The response has no body."
+msgstr "پاسخ بدنه ندارد."
+
+#: includes/class-rb-admin.php:47
+msgid "Empty"
+msgstr "خالی"
+
+#: includes/class-rb-admin.php:48
+msgid "The address must start with http:// or https://."
+msgstr "آدرس باید با http:// یا https:// شروع شود."
+
+#: includes/class-rb-admin.php:49
+msgid "The address must not contain spaces."
+msgstr "آدرس نباید فاصله داشته باشد."
+
+#: includes/class-rb-admin.php:50
+msgid "This address is not valid."
+msgstr "این آدرس معتبر نیست."
+
+#: includes/class-rb-admin.php:51
+msgid "The address must not contain a user name or password."
+msgstr "آدرس نباید نام کاربری یا رمز داشته باشد."
+
+#: includes/class-rb-admin.php:52
+msgid "The frontend URL must not contain ? or #."
+msgstr "آدرس فرانت‌اند نباید ? یا # داشته باشد."
+
+#: includes/class-rb-admin.php:53 includes/class-rb-settings.php:50
+msgid "The frontend URL must not end with a slash."
+msgstr "آدرس فرانت‌اند نباید با «/» تمام شود."
+
+#: includes/class-rb-admin.php:54
+msgid "This is the WordPress API address. Enter the address of your frontend, for example https://example.com"
+msgstr "این آدرس API وردپرس است. اینجا آدرس فرانت‌اند را بنویس، مثلاً https://example.com"
+
+#: includes/class-rb-admin.php:55
+msgid "The path must look like /blog: it starts with a slash and has no trailing slash, space, ? or #."
+msgstr "مسیر باید مثل /blog باشد: با «/» شروع شود و «/» انتهایی، فاصله، ? یا # نداشته باشد."
+
+#: includes/class-rb-admin.php:56
+msgid "* is not allowed"
+msgstr "* مجاز نیست"
+
+#: includes/class-rb-admin.php:57
+msgid "http or https only"
+msgstr "فقط http یا https"
+
+#: includes/class-rb-admin.php:58
+msgid "A path or trailing slash is not allowed"
+msgstr "مسیر یا «/» انتهایی مجاز نیست"
+
+#: includes/class-rb-admin.php:59
+msgid "Invalid format"
+msgstr "قالب نامعتبر"
+
+#: includes/class-rb-admin.php:60
+msgid "Duplicate"
+msgstr "تکراری"
+
+#: includes/class-rb-admin.php:61
+msgid "At most 50 origins are allowed"
+msgstr "حداکثر ۵۰ دامنه مجاز است"
+
+#: includes/class-rb-admin.php:62
+msgid "Automatic from the frontend URL"
+msgstr "خودکار از آدرس فرانت‌اند"
+
+#: includes/class-rb-admin.php:63
+msgid "Automatic"
+msgstr "خودکار"
+
+#: includes/class-rb-admin.php:65
+msgid "Origin %s is allowed automatically"
+msgstr "دامنهٔ %s خودکار مجاز است"
+
+#: includes/class-rb-admin.php:66
+msgid "Sample post title"
+msgstr "عنوان نمونهٔ مطلب"
+
+#: includes/class-rb-admin.php:67
+msgid "The default description appears here."
+msgstr "توضیحات پیش‌فرض اینجا نمایش داده می‌شود."
+
+#: includes/class-rb-admin.php:68 views/settings-page.php:284
+msgid "Site name"
+msgstr "نام سایت"
+
+#: includes/class-rb-admin.php:70
+msgid "%1$s of %2$s"
+msgstr "%1$s از %2$s"
+
+#: includes/class-rb-admin.php:72
+msgid "%s settings will change:"
+msgstr "%s تنظیم تغییر می‌کند:"
+
+#: includes/class-rb-admin.php:73
+msgid "All values match the current settings. Nothing to change."
+msgstr "همهٔ مقادیر با تنظیمات فعلی یکی است. چیزی برای تغییر نیست."
+
+#: includes/class-rb-admin.php:75
+msgid "Ignored: %s"
+msgstr "نادیده گرفته شد: %s"
+
+#: includes/class-rb-admin.php:76
+msgid "This text is not valid JSON. Paste the full text copied from your panel."
+msgstr "این متن JSON معتبر نیست. متن کامل کپی‌شده از پنل را پیست کن."
+
+#: includes/class-rb-admin.php:77
+msgid "The text must be a JSON object."
+msgstr "متن باید یک شیء JSON باشد."
+
+#: includes/class-rb-admin.php:79
+msgid "Could not apply settings (code %s)."
+msgstr "اعمال تنظیمات ممکن نشد (کد %s)."
+
+#: includes/class-rb-admin.php:80
+msgid "Could not connect. Try again."
+msgstr "اتصال برقرار نشد. دوباره تلاش کن."
+
+#: includes/class-rb-admin.php:81
+msgid "Applying"
+msgstr "در حال اعمال"
+
+#: includes/class-rb-admin.php:82 views/settings-page.php:187
+msgid "Apply settings"
+msgstr "اعمال تنظیمات"
+
+#: includes/class-rb-admin.php:84
+msgid "%s settings imported and saved."
+msgstr "%s تنظیم وارد و ذخیره شد."
+
+#: includes/class-rb-admin.php:85
+msgid "The browser blocked automatic copying. The text is selected, press Ctrl+C."
+msgstr "مرورگر اجازهٔ کپی خودکار نداد. متن انتخاب شده است؛ Ctrl+C بزن."
+
+#: includes/class-rb-admin.php:86
+msgid "Unsaved changes on this page are not in the copied text. Save first, then copy again."
+msgstr "تغییرات ذخیره‌نشدهٔ این صفحه در متن کپی‌شده نیست. اول ذخیره کن، بعد دوباره کپی کن."
+
+#: includes/class-rb-admin.php:87
+msgid "Paste the copied text into the box above with Ctrl+V."
+msgstr "متن کپی‌شده را با Ctrl+V در کادر بالا پیست کن."
+
+#: includes/class-rb-admin.php:89
+msgid "Origin %s allowed"
+msgstr "دامنهٔ %s مجاز شد"
+
+#: includes/class-rb-admin.php:91
+msgid "Blog path %s set"
+msgstr "مسیر وبلاگ %s تنظیم شد"
+
+#: includes/class-rb-admin.php:93
+msgid "Site reachable (%s)"
+msgstr "سایت در دسترس است (%s)"
+
+#: includes/class-rb-admin.php:94
+msgid "Site did not respond"
+msgstr "سایت پاسخ نداد"
+
+#: includes/class-rb-admin.php:95
+msgid "API active"
+msgstr "API فعال"
+
+#: includes/class-rb-admin.php:96
+msgid "Settings match"
+msgstr "تنظیمات هماهنگ است"
+
+#: includes/class-rb-admin.php:97
+msgid "Frontend URL differs in manifest"
+msgstr "آدرس فرانت‌اند در manifest فرق دارد"
+
+#: includes/class-rb-admin.php:99
+msgid "%s posts"
+msgstr "%s نوشته"
+
+#: includes/class-rb-admin.php:100
+msgid "Sitemap ready"
+msgstr "نقشهٔ سایت آماده"
+
+#: includes/class-rb-admin.php:101
+msgid "Failed"
+msgstr "ناموفق"
+
+#: includes/class-rb-admin.php:103
+msgid ", "
+msgstr "، "
+
+#: includes/class-rb-admin.php:104
+msgid "Waiting"
+msgstr "در انتظار"
+
+#: includes/class-rb-admin.php:106
+msgid "to"
+msgstr "به"
+
+#: includes/class-rb-admin.php:107
+msgid "Setup complete."
+msgstr "راه‌اندازی تمام شد."
+
+#: includes/class-rb-admin.php:108
+msgid "Enter your frontend address."
+msgstr "آدرس فرانت‌اند را بنویس."
+
+#: includes/class-rb-admin.php:109
+msgid "empty"
+msgstr "خالی"
+
+#: includes/class-rb-admin.php:110
+msgid "on"
+msgstr "روشن"
+
+#: includes/class-rb-admin.php:111
+msgid "off"
+msgstr "خاموش"
+
+#: includes/class-rb-admin.php:113
+msgid "B"
+msgstr "بایت"
+
+#: includes/class-rb-admin.php:115
+msgid "KB"
+msgstr "کیلوبایت"
+
+#: includes/class-rb-admin.php:117
+msgid "ms"
+msgstr "میلی‌ثانیه"
+
+#: includes/class-rb-admin.php:119 views/settings-page.php:76 views/settings-page.php:84 views/settings-page.php:149
+msgid "Frontend URL"
+msgstr "آدرس فرانت‌اند"
+
+#: includes/class-rb-admin.php:120 views/settings-page.php:156
+msgid "Blog path"
+msgstr "مسیر وبلاگ"
+
+#: includes/class-rb-admin.php:121
+msgid "301 redirect to the frontend"
+msgstr "ریدایرکت ۳۰۱ به فرانت"
+
+#: includes/class-rb-admin.php:122
+msgid "Allowed origins (CORS)"
+msgstr "دامنه‌های مجاز (CORS)"
+
+#: includes/class-rb-admin.php:123
+msgid "Cache lifetime (seconds)"
+msgstr "مدت کش (ثانیه)"
+
+#: includes/class-rb-admin.php:124 views/settings-page.php:243
+msgid "Posts per page"
+msgstr "تعداد نوشته در هر صفحه"
+
+#: includes/class-rb-admin.php:125
+msgid "Revalidation webhook URL"
+msgstr "آدرس وب‌هوک بازسازی"
+
+#: includes/class-rb-admin.php:126 views/settings-page.php:323
+msgid "Panel name"
+msgstr "نام پنل"
+
+#: includes/class-rb-admin.php:127 views/settings-page.php:329
+msgid "Panel URL"
+msgstr "آدرس پنل"
+
+#: includes/class-rb-admin.php:139
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: includes/class-rb-admin.php:202
+msgid "The frontend URL is not set yet."
+msgstr "آدرس فرانت‌اند هنوز تنظیم نشده."
+
+#: includes/class-rb-admin.php:203
+msgid "Set it up"
+msgstr "تنظیم کن"
+
+#: includes/class-rb-admin.php:210 includes/class-rb-admin.php:218 includes/class-rb-admin.php:233 includes/class-rb-admin.php:243
+#: includes/class-rb-settings-rest.php:32
+msgid "You do not have permission to do this."
+msgstr "اجازهٔ دسترسی ندارید."
+
+#: includes/class-rb-admin.php:248
+msgid "The frontend URL is required."
+msgstr "آدرس فرانت‌اند لازم است."
+
+#: includes/class-rb-admin.php:264
+msgid "The address must be http or https."
+msgstr "آدرس باید http یا https باشد."
+
+#: includes/class-rb-admin.php:301
+msgid "SEO (React Bridge)"
+msgstr "سئو (React Bridge)"
+
+#: includes/class-rb-admin.php:312
+msgid "Address on the frontend:"
+msgstr "آدرس در فرانت‌اند:"
+
+#: includes/class-rb-admin.php:313
+msgid "SEO title"
+msgstr "عنوان سئو"
+
+#: includes/class-rb-admin.php:314
+msgid "Empty = the post title with the template from the settings"
+msgstr "خالی = عنوان مطلب طبق الگوی تنظیمات"
+
+#: includes/class-rb-admin.php:315
+msgid "Meta description"
+msgstr "توضیحات متا"
+
+#: includes/class-rb-admin.php:316
+msgid "Empty = the post excerpt"
+msgstr "خالی = چکیدهٔ مطلب"
+
+#: includes/class-rb-admin.php:317
+msgid "Sharing image (OG)"
+msgstr "تصویر اشتراک‌گذاری (OG)"
+
+#: includes/class-rb-admin.php:318
+msgid "Empty = the featured image"
+msgstr "خالی = تصویر شاخص"
+
+#: includes/class-rb-admin.php:319
+msgid "Keep this out of search results (noindex)"
+msgstr "از ایندکس شدن خارج شود (noindex)"
+
+#: includes/class-rb-api.php:76
+msgid "The API key is not valid."
+msgstr "کلید API معتبر نیست."
+
+#: includes/class-rb-api.php:339
+msgid "Post not found."
+msgstr "مطلب پیدا نشد."
+
+#: includes/class-rb-api.php:345
+msgid "Pages are not available."
+msgstr "برگه‌ها در دسترس نیستند."
+
+#: includes/class-rb-api.php:351
+msgid "Page not found."
+msgstr "برگه پیدا نشد."
+
+#: includes/class-rb-api.php:385
+msgid "Blog of %s"
+msgstr "وبلاگ %s"
+
+#: includes/class-rb-api.php:386
+msgid "Blog"
+msgstr "وبلاگ"
+
+#: includes/class-rb-api.php:406
+msgid "Path not found."
+msgstr "مسیر پیدا نشد."
+
+#: includes/class-rb-settings-rest.php:46
+msgid "The request body must be a JSON object."
+msgstr "بدنهٔ درخواست باید یک شیء JSON باشد."
+
+#: includes/class-rb-settings-rest.php:53
+msgid "The settings are not valid."
+msgstr "تنظیمات نامعتبر است."
+
+#: includes/class-rb-settings.php:49
+msgid "The frontend URL must be empty or a full http or https address."
+msgstr "آدرس فرانت‌اند باید خالی یا یک آدرس کامل http یا https باشد."
+
+#: includes/class-rb-settings.php:51
+msgid "The frontend URL must not contain ?, # or a user name."
+msgstr "آدرس فرانت‌اند نباید ?، # یا نام کاربری داشته باشد."
+
+#: includes/class-rb-settings.php:52
+msgid "The blog path must look like /blog: it starts with a slash and has no trailing slash, space, ? or #."
+msgstr "مسیر وبلاگ باید مثل /blog باشد: با «/» شروع شود و اسلش انتهایی، فاصله، ? یا # نداشته باشد."
+
+#: includes/class-rb-settings.php:53
+msgid "The redirect value must be true or false."
+msgstr "مقدار ریدایرکت باید true یا false باشد."
+
+#: includes/class-rb-settings.php:54
+msgid "Allowed origins must be a list of strings."
+msgstr "دامنه‌های مجاز باید فهرستی از رشته‌ها باشد."
+
+#: includes/class-rb-settings.php:55
+msgid "The * wildcard is not allowed. Add each origin separately."
+msgstr "علامت * مجاز نیست؛ هر دامنه را جداگانه وارد کنید."
+
+#: includes/class-rb-settings.php:57
+msgid "The origin \"%s\" is not valid. Use scheme://host[:port] without a path."
+msgstr "دامنهٔ «%s» نامعتبر است؛ فقط scheme://host[:port] بدون مسیر."
+
+#: includes/class-rb-settings.php:58
+msgid "At most 50 origins are allowed."
+msgstr "حداکثر ۵۰ دامنه مجاز است."
+
+#: includes/class-rb-settings.php:59
+msgid "The cache lifetime must be a whole number between 0 and 86400 seconds."
+msgstr "مدت کش باید عدد صحیح بین ۰ تا ۸۶۴۰۰ ثانیه باشد."
+
+#: includes/class-rb-settings.php:60
+msgid "Posts per page must be a whole number between 1 and 50."
+msgstr "تعداد مطلب در هر صفحه باید عدد صحیح بین ۱ تا ۵۰ باشد."
+
+#: includes/class-rb-settings.php:61
+msgid "The webhook URL must be empty or a full http or https address."
+msgstr "آدرس وب‌هوک باید خالی یا یک آدرس کامل http یا https باشد."
+
+#: includes/class-rb-settings.php:62
+msgid "The panel URL must be empty or a full http or https address."
+msgstr "آدرس پنل باید خالی یا یک آدرس کامل http یا https باشد."
+
+#: includes/class-rb-settings.php:63
+msgid "The language is not valid. For example fa_IR."
+msgstr "زبان نامعتبر است؛ مثلاً fa_IR."
+
+#: includes/class-rb-settings.php:64
+msgid "This field is required."
+msgstr "این فیلد الزامی است."
+
+#: views/settings-page.php:14 views/settings-page.php:219 views/settings-page.php:260
+msgid "Copy"
+msgstr "کپی"
+
+#: views/settings-page.php:32
+msgid "No cache"
+msgstr "بدون کش"
+
+#: views/settings-page.php:33
+msgid "1 minute"
+msgstr "۱ دقیقه"
+
+#: views/settings-page.php:34
+msgid "5 minutes"
+msgstr "۵ دقیقه"
+
+#: views/settings-page.php:35
+msgid "1 hour"
+msgstr "۱ ساعت"
+
+#: views/settings-page.php:36
+msgid "1 day"
+msgstr "۱ روز"
+
+#: views/settings-page.php:42
+msgid "panel"
+msgstr "پنل"
+
+#: views/settings-page.php:46
+msgid "Connection"
+msgstr "اتصال"
+
+#: views/settings-page.php:47
+msgid "Advanced"
+msgstr "پیشرفته"
+
+#: views/settings-page.php:48
+msgid "Status"
+msgstr "وضعیت"
+
+#: views/settings-page.php:49
+msgid "Guide"
+msgstr "راهنما"
+
+#: views/settings-page.php:52
+msgid "Settings, categories, menus and counters"
+msgstr "تنظیمات، دسته‌ها، منوها و شمارنده‌ها"
+
+#: views/settings-page.php:53
+msgid "Paginated list with filters and search"
+msgstr "لیست صفحه‌بندی‌شده با فیلتر و جست‌وجو"
+
+#: views/settings-page.php:54
+msgid "Full post with SEO"
+msgstr "مطلب کامل همراه سئو"
+
+#: views/settings-page.php:55
+msgid "WordPress page"
+msgstr "برگهٔ وردپرس"
+
+#: views/settings-page.php:56
+msgid "Categories and tags"
+msgstr "دسته‌ها و تگ‌ها"
+
+#: views/settings-page.php:57
+msgid "Full HTML for crawlers"
+msgstr "HTML کامل برای خزنده‌ها"
+
+#: views/settings-page.php:58
+msgid "Sitemap with frontend URLs"
+msgstr "نقشهٔ سایت با آدرس فرانت‌اند"
+
+#: views/settings-page.php:59
+msgid "Plugin status and version"
+msgstr "وضعیت و نسخهٔ افزونه"
+
+#: views/settings-page.php:60
+msgid "Blog settings for your admin panel"
+msgstr "تنظیمات وبلاگ برای پنل مدیریت"
+
+#: views/settings-page.php:74
+msgid "Quick setup"
+msgstr "راه‌اندازی سریع"
+
+#: views/settings-page.php:77
+msgid "Connect panel"
+msgstr "اتصال به پنل"
+
+#: views/settings-page.php:78
+msgid "Check"
+msgstr "بررسی"
+
+#: views/settings-page.php:82
+msgid "Enter your React site URL"
+msgstr "آدرس سایت React را بده"
+
+#: views/settings-page.php:85 views/settings-page.php:101
+msgid "Continue"
+msgstr "ادامه"
+
+#: views/settings-page.php:88
+msgid "Paste settings from your panel instead"
+msgstr "به‌جایش تنظیمات را از پنل پیست کن"
+
+#: views/settings-page.php:93
+msgid "Send settings to your panel"
+msgstr "تنظیمات را به پنل بده"
+
+#: views/settings-page.php:95
+msgid "Copy settings"
+msgstr "کپی تنظیمات"
+
+#: views/settings-page.php:96 views/settings-page.php:175
+msgid "Open %s"
+msgstr "باز کردن %s"
+
+#: views/settings-page.php:98
+msgid "In your panel, click \"Paste from plugin\"."
+msgstr "در پنل «پیست از افزونه» را بزن."
+
+#: views/settings-page.php:100 views/settings-page.php:114
+msgid "Back"
+msgstr "قبلی"
+
+#: views/settings-page.php:106
+msgid "Check the connection"
+msgstr "بررسی اتصال"
+
+#: views/settings-page.php:109 views/settings-page.php:426
+msgid "Manifest"
+msgstr "مانیفست"
+
+#: views/settings-page.php:110
+msgid "Posts"
+msgstr "نوشته‌ها"
+
+#: views/settings-page.php:111
+msgid "Sitemap"
+msgstr "نقشهٔ سایت"
+
+#: views/settings-page.php:115
+msgid "Again"
+msgstr "دوباره"
+
+#: views/settings-page.php:116
+msgid "Done"
+msgstr "تمام"
+
+#: views/settings-page.php:124
+msgid "Settings saved."
+msgstr "تنظیمات ذخیره شد."
+
+#: views/settings-page.php:128
+msgid "React Bridge sections"
+msgstr "بخش‌های React Bridge"
+
+#: views/settings-page.php:146
+msgid "Frontend"
+msgstr "فرانت‌اند"
+
+#: views/settings-page.php:150
+msgid "URL of your React site, with http or https and no trailing slash"
+msgstr "آدرس سایت React، با http یا https، بدون «/» انتهایی"
+
+#: views/settings-page.php:157
+msgid "Must start with a slash, no trailing slash and no spaces"
+msgstr "با «/» شروع شود، بدون «/» انتهایی و بدون فاصله"
+
+#: views/settings-page.php:169
+msgid "Transfer to %s"
+msgstr "انتقال به %s"
+
+#: views/settings-page.php:170
+msgid "Transfer to panel"
+msgstr "انتقال به پنل"
+
+#: views/settings-page.php:173
+msgid "Copy for %s"
+msgstr "کپی برای %s"
+
+#: views/settings-page.php:174
+msgid "Paste from %s"
+msgstr "پیست از %s"
+
+#: views/settings-page.php:182
+msgid "Settings text from your panel"
+msgstr "متن تنظیمات پنل"
+
+#: views/settings-page.php:183
+msgid "Only the %s blog settings are applied; other keys are ignored"
+msgstr "فقط %s تنظیم وبلاگ اعمال می‌شود؛ کلیدهای دیگر نادیده گرفته می‌شوند"
+
+#: views/settings-page.php:188
+msgid "Cancel"
+msgstr "انصراف"
+
+#: views/settings-page.php:192
+msgid "Run setup again"
+msgstr "راه‌اندازی دوباره"
+
+#: views/settings-page.php:200
+msgid "Access"
+msgstr "دسترسی"
+
+#: views/settings-page.php:203
+msgid "Allowed origins"
+msgstr "دامنه‌های مجاز"
+
+#: views/settings-page.php:204
+msgid "One origin per line as scheme://host[:port], no path, up to %s entries"
+msgstr "هر خط یک دامنه به شکل scheme://host[:port]، بدون مسیر، حداکثر %s مورد"
+
+#: views/settings-page.php:205
+msgid "Origins preview"
+msgstr "پیش‌نمایش دامنه‌ها"
+
+#: views/settings-page.php:210
+msgid "The key is sent in the X-RB-Key header"
+msgstr "کلید در هدر X-RB-Key فرستاده می‌شود"
+
+#: views/settings-page.php:211
+msgid "Require API key"
+msgstr "کلید API الزامی"
+
+#: views/settings-page.php:215
+msgid "API key"
+msgstr "کلید API"
+
+#: views/settings-page.php:217
+msgid "This key is visible inside the React build"
+msgstr "این کلید داخل بیلد React دیده می‌شود"
+
+#: views/settings-page.php:220
+msgid "New key"
+msgstr "کلید جدید"
+
+#: views/settings-page.php:227
+msgid "Cache and revalidation"
+msgstr "کش و به‌روزرسانی"
+
+#: views/settings-page.php:230
+msgid "Cache lifetime"
+msgstr "مدت کش"
+
+#: views/settings-page.php:232
+msgid "From %1$s to %2$s seconds; zero means no cache"
+msgstr "از %1$s تا %2$s ثانیه؛ صفر یعنی بدون کش"
+
+#: views/settings-page.php:233
+msgid "Preset values"
+msgstr "مقادیر آماده"
+
+#: views/settings-page.php:244
+msgid "From %1$s to %2$s"
+msgstr "از %1$s تا %2$s"
+
+#: views/settings-page.php:249
+msgid "Webhook URL"
+msgstr "آدرس وب‌هوک"
+
+#: views/settings-page.php:250
+msgid "Signed POST with the X-RB-Signature header after every post change"
+msgstr "POST امضاشده با هدر X-RB-Signature بعد از هر تغییر مطلب"
+
+#: views/settings-page.php:256
+msgid "Webhook signing secret"
+msgstr "رمز امضای وب‌هوک"
+
+#: views/settings-page.php:258
+msgid "Keep this secret on the frontend server only"
+msgstr "این رمز را فقط در سرور فرانت‌اند نگه دار"
+
+#: views/settings-page.php:266
+msgid "Pages in the API"
+msgstr "برگه‌ها در API"
+
+#: views/settings-page.php:270
+msgid "301 redirect from WordPress pages to the frontend"
+msgstr "ریدایرکت ۳۰۱ صفحات وردپرس به فرانت‌اند"
+
+#: views/settings-page.php:272
+msgid "Redirect to frontend"
+msgstr "ریدایرکت به فرانت‌اند"
+
+#: views/settings-page.php:280
+msgid "SEO"
+msgstr "سئو"
+
+#: views/settings-page.php:288
+msgid "Title template"
+msgstr "الگوی عنوان"
+
+#: views/settings-page.php:289
+msgid "Variables: %title% and %site%"
+msgstr "متغیرها: %title% و %site%"
+
+#: views/settings-page.php:292
+msgid "Default description"
+msgstr "توضیحات پیش‌فرض"
+
+#: views/settings-page.php:296
+msgid "Default image"
+msgstr "تصویر پیش‌فرض"
+
+#: views/settings-page.php:297
+msgid "Recommended size %1$s by %2$s pixels"
+msgstr "اندازهٔ پیشنهادی %1$s در %2$s پیکسل"
+
+#: views/settings-page.php:300
+msgid "X account"
+msgstr "حساب X"
+
+#: views/settings-page.php:304
+msgid "Language"
+msgstr "زبان"
+
+#: views/settings-page.php:305
+msgid "For example en_US; affects og:locale and text direction"
+msgstr "مثلاً en_US؛ روی og:locale و جهت متن اثر دارد"
+
+#: views/settings-page.php:320
+msgid "Admin panel"
+msgstr "پنل مدیریت"
+
+#: views/settings-page.php:324
+msgid "My admin panel"
+msgstr "پنل مدیریت من"
+
+#: views/settings-page.php:324
+msgid "Shown on the transfer buttons, up to %s characters"
+msgstr "روی دکمه‌های انتقال نمایش داده می‌شود، حداکثر %s نویسه"
+
+#: views/settings-page.php:330
+msgid "Full http or https address of the blog settings screen in your panel"
+msgstr "آدرس کامل http یا https صفحهٔ تنظیمات وبلاگ در پنل"
+
+#: views/settings-page.php:339
+msgid "All saved"
+msgstr "ذخیره شده"
+
+#: views/settings-page.php:342
+msgid "Save"
+msgstr "ذخیره"
+
+#: views/settings-page.php:350
+msgid "Endpoints"
+msgstr "Endpointها"
+
+#: views/settings-page.php:359
+msgid "Admins only"
+msgstr "فقط مدیر"
+
+#: views/settings-page.php:361
+msgid "Test"
+msgstr "آزمایش"
+
+#: views/settings-page.php:361
+msgid "Test %s"
+msgstr "آزمایش %s"
+
+#: views/settings-page.php:370
+msgid "Live test"
+msgstr "تست زنده"
+
+#: views/settings-page.php:385
+msgid "Parameters"
+msgstr "پارامترها"
+
+#: views/settings-page.php:400
+msgid "Copy request URL"
+msgstr "کپی آدرس درخواست"
+
+#: views/settings-page.php:402
+msgid "Pick an endpoint and run it."
+msgstr "یک endpoint انتخاب و اجرا کن."
+
+#: views/settings-page.php:411
+msgid "Guide contents"
+msgstr "فهرست آموزش"
+
+#: views/settings-page.php:412
+msgid "In this guide"
+msgstr "در این راهنما"
+
+#: views/settings-page.php:414
+msgid "Base URL"
+msgstr "آدرس پایه"
+
+#: views/settings-page.php:415
+msgid "React client"
+msgstr "کلاینت React"
+
+#: views/settings-page.php:416
+msgid "SEO in React"
+msgstr "سئو در React"
+
+#: views/settings-page.php:417
+msgid "Rendering for bots"
+msgstr "رندر برای ربات‌ها"
+
+#: views/settings-page.php:418
+msgid "Revalidation webhook"
+msgstr "وب‌هوک بازسازی"
+
+#: views/settings-page.php:419
+msgid "Response shape"
+msgstr "ساختار پاسخ"
+
+#: views/settings-page.php:420
+msgid "Panel connection"
+msgstr "اتصال پنل"
+
+#: views/settings-page.php:424
+msgid "%s. Base URL"
+msgstr "%s. آدرس پایه"
+
+#: views/settings-page.php:429
+msgid "%s. React client"
+msgstr "%s. کلاینت React"
+
+#: views/settings-page.php:430
+msgid "One file for every endpoint. It honours ETag and keeps responses in memory."
+msgstr "یک فایل برای همهٔ endpointها. ETag را رعایت می‌کند و پاسخ‌ها را در حافظه نگه می‌دارد."
+
+#: views/settings-page.php:474
+msgid "%s. SEO in React"
+msgstr "%s. سئو در React"
+
+#: views/settings-page.php:476
+msgid "Every post ships a ready %1$s. Inject it into %2$s with %3$s (%4$s)."
+msgstr "هر مطلب %1$s آماده دارد. با %3$s در %2$s تزریق کن (%4$s)."
+
+#: views/settings-page.php:557
+msgid "src/main.jsx (changes)"
+msgstr "src/main.jsx (تغییرات)"
+
+#: views/settings-page.php:570
+msgid "%s. Dynamic rendering for bots (Nginx)"
+msgstr "%s. رندر پویا برای ربات‌ها (Nginx)"
+
+#: views/settings-page.php:571
+msgid "Search and social bots get full HTML from the plugin instead of an empty SPA, while people still get React. Add this block on the frontend server:"
+msgstr "ربات‌های جست‌وجو و شبکه‌های اجتماعی به‌جای SPA خالی، HTML کامل را از افزونه می‌گیرند و کاربران همچنان React را می‌بینند. این بلوک را در سرور فرانت‌اند بگذار:"
+
+#: views/settings-page.php:572
+msgid "nginx: frontend server block"
+msgstr "nginx: بلوک server فرانت‌اند"
+
+#: views/settings-page.php:594
+msgid "The %1$s block must sit at %2$s level, not inside %3$s. Behind Cloudflare, enable caching for %4$s."
+msgstr "بلوک %1$s باید در سطح %2$s باشد، نه داخل %3$s. اگر Cloudflare داری، کش را برای %4$s فعال کن."
+
+#: views/settings-page.php:601
+msgid "Without touching Nginx: prerender the sitemap routes at build time with %1$s or %2$s."
+msgstr "راه جایگزین بدون تغییر Nginx: در زمان بیلد مسیرهای نقشهٔ سایت را با %1$s یا %2$s از قبل رندر کن."
+
+#: views/settings-page.php:606
+msgid "%s. Revalidation webhook (optional)"
+msgstr "%s. وب‌هوک بازسازی (اختیاری)"
+
+#: views/settings-page.php:608
+msgid "For Next.js ISR or a CDN cache, the configured URL is POSTed at most once per request for each post or page. %1$s is one of %2$s (first publish), %3$s (edit of a published post), %4$s (moved to draft, trash or private) and %5$s (permanent delete of a published post)."
+msgstr "برای Next.js/ISR یا کش CDN، آدرس تنظیم‌شده برای هر نوشته یا برگه حداکثر یک بار در هر درخواست POST می‌شود. %1$s یکی از این‌هاست: %2$s (انتشار اول)، %3$s (ویرایش مطلب منتشرشده)، %4$s (پیش‌نویس، زباله یا خصوصی شدن) و %5$s (حذف دائمی مطلب منتشرشده)."
+
+#: views/settings-page.php:618
+msgid "Signature check (Node)"
+msgstr "اعتبارسنجی امضا (Node)"
+
+#: views/settings-page.php:626
+msgid "%s. Response shape of a post"
+msgstr "%s. ساختار پاسخ هر مطلب"
+
+#: views/settings-page.php:640
+msgid "%s. Panel connection"
+msgstr "%s. اتصال پنل"
+
+#: views/settings-page.php:642
+msgid "An external admin panel reads and changes the blog settings through the %1$s endpoint. Only these %2$s keys are reachable this way. The API key, the webhook secret and the SEO settings are never returned."
+msgstr "یک پنل مدیریت بیرونی تنظیمات وبلاگ را با endpoint %1$s می‌خواند و تغییر می‌دهد. فقط همین %2$s کلید از این مسیر در دسترس است. کلید API، رمز وب‌هوک و تنظیمات سئو هرگز برگردانده نمی‌شوند."
+
+#: views/settings-page.php:646
+msgid "Read"
+msgstr "خواندن"
+
+#: views/settings-page.php:647
+msgid "Partial update"
+msgstr "تغییر جزئی"
+
+#: views/settings-page.php:648
+msgid "Authentication:"
+msgstr "احراز هویت:"
+
+#: views/settings-page.php:649
+msgid "an application password of an administrator. Under Users, Profile, Application Passwords create one named \"React Bridge\" and send it with Basic Auth: %1$s. Use HTTPS in production. The %2$s key is not accepted on this route because it is public inside the frontend build. Without authentication or administrator rights the answer is %3$s or %4$s."
+msgstr "Application Password یک کاربر مدیر. از «کاربران، نمایهٔ شما، گذرواژه‌های برنامه» یک گذرواژه با نام «React Bridge» بساز و با Basic Auth بفرست: %1$s. در production فقط روی HTTPS. کلید %2$s برای این مسیر پذیرفته نمی‌شود چون در بیلد فرانت‌اند عمومی است. بدون احراز هویت یا دسترسی مدیر، پاسخ %3$s یا %4$s است."
+
+#: views/settings-page.php:657
+msgid "Key"
+msgstr "کلید"
+
+#: views/settings-page.php:657
+msgid "Rule"
+msgstr "قاعده"
+
+#: views/settings-page.php:657
+msgid "Type"
+msgstr "نوع"
+
+#: views/settings-page.php:660
+msgid "%1$s or a full %2$s address, no trailing slash, no query, fragment or userinfo. A path is allowed."
+msgstr "%1$s یا آدرس کامل %2$s، بدون «/» انتهایی، بدون query، fragment یا userinfo. مسیر مجاز است."
+
+#: views/settings-page.php:665
+msgid "Starts with a slash, no trailing slash, no spaces and no %1$s or %2$s. Default %3$s."
+msgstr "با «/» شروع شود، بدون «/» انتهایی، بدون فاصله و بدون %1$s یا %2$s. پیش‌فرض %3$s."
+
+#: views/settings-page.php:670
+msgid "301 redirect from old WordPress pages to the frontend."
+msgstr "ریدایرکت ۳۰۱ صفحات قدیمی وردپرس به فرانت‌اند."
+
+#: views/settings-page.php:672
+msgid "Each entry exactly %1$s, no path. Up to %2$s entries and no %3$s. The frontend origin is allowed automatically and is not stored in this list."
+msgstr "هر مورد دقیقاً %1$s، بدون مسیر. حداکثر %2$s مورد و بدون %3$s. دامنهٔ فرانت‌اند خودکار مجاز است و در این لیست ذخیره نمی‌شود."
+
+#: views/settings-page.php:677
+msgid "%1$s to %2$s. Zero means no cache."
+msgstr "%1$s تا %2$s. صفر یعنی بدون کش."
+
+#: views/settings-page.php:678
+msgid "%1$s to %2$s."
+msgstr "%1$s تا %2$s."
+
+#: views/settings-page.php:680
+msgid "%1$s or a full %2$s address."
+msgstr "%1$s یا آدرس کامل %2$s."
+
+#: views/settings-page.php:688
+msgid "In %1$s send only the keys that must change. Types must match exactly (%2$s, not %3$s). If even one field is invalid nothing is saved. Unknown keys are ignored and reported in the %4$s header. If the client cannot send PATCH, use %5$s with the %6$s header."
+msgstr "در %1$s فقط کلیدهایی را که باید تغییر کنند بفرست. نوع‌ها باید دقیق باشند (%2$s نه %3$s). اگر حتی یک فیلد نامعتبر باشد، هیچ چیز ذخیره نمی‌شود. کلیدهای ناشناخته نادیده گرفته و در هدر %4$s گزارش می‌شوند. اگر کلاینت PATCH را پشتیبانی نمی‌کند، %5$s با هدر %6$s بفرست."
+
+#: views/settings-page.php:696
+msgid "curl: read and update"
+msgstr "curl: خواندن و تغییر"
+
+#: views/settings-page.php:703
+msgid "Successful GET and PATCH response (200)"
+msgstr "پاسخ موفق GET و PATCH (200)"
+
+#: views/settings-page.php:714
+msgid "Validation error (400)"
+msgstr "خطای اعتبارسنجی (400)"
+
+#: views/settings-page.php:725
+msgid "Each field message in %1$s is short and can be shown directly under that field in your panel. A body that is not a JSON object is rejected with code %2$s and status %3$s. Responses carry %4$s."
+msgstr "پیام هر فیلد در %1$s کوتاه است و می‌تواند مستقیم زیر همان فیلد در پنل نمایش داده شود. بدنه‌ای که شیء JSON نباشد با کد %2$s و وضعیت %3$s رد می‌شود. پاسخ‌ها %4$s دارند."
